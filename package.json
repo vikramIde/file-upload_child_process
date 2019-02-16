@@ -1,0 +1,14 @@
+{
+  "name": "file-upload-process",
+  "version": "1.0.0",
+  "description": "Upload large file using parallel process child in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+    "piglatin": "^0.1.2",
+  },
+  "license": "ISC"
+}
